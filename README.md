@@ -4,4 +4,4 @@ A Flutter Project in short time
 
 ## App Screen short
 
-![Alt Text](git_component/app_ss.jpg)
+![App Screenshort](git_component/app_ss.jpg | width=100)
