@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pagination Example',
+      title: 'Post Live',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
